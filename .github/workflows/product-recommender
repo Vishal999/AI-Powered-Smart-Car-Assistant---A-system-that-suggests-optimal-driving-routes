@@ -1,6 +1,0 @@
-product-recommender/
-├── app.py                  # Streamlit UI implementation
-├── recommender.py          # Recommendation engine logic
-├── sample_data.py          # Sample product dataset
-├── requirements.txt        # Project dependencies
-└── README.md              # Documentation
