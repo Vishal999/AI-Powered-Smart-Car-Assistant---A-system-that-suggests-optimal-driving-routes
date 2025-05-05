@@ -1,14 +1,18 @@
-# 🛒 Streamlit Product Recommender
+# AI-Based Product Recommender System
 
-An AI-based content recommendation engine using TF-IDF and cosine similarity, deployed with Streamlit.
+## Overview
+An intelligent product recommendation system built with Streamlit that provides content-based recommendations using product descriptions and characteristics.
 
 ## Features
-- Recommends similar products based on descriptions
-- Simple UI built with Streamlit
-- Easily extendable
+- Content-based product recommendations
+- Interactive user interface
+- Category-based filtering
+- Similarity score visualization
+- Real-time recommendations
 
-## Run Locally
+## Installation
 
+1. Clone the repository
 ```bash
-pip install -r requirements.txt
-streamlit run app.py
+git clone <your-repository-url>
+cd product-recommender
